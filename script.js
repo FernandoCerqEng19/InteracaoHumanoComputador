@@ -9,7 +9,7 @@ sr.reveal('.area-3', { duration: 1000 });
 
 sr.reveal('.area-4', { duration: 1000 });
 
-sr.reveal('.module', { duration: 1000 });
+sr.reveal('.module', { duration: 1500 });
 
 window.addEventListener('scroll', function(){
     let header = document.querySelector('header')
